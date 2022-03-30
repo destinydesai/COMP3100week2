@@ -85,9 +85,11 @@ public class MyClient {
         design - high-level design (classes, each class holds jobs, purpose of each class)
         implementation - what are the thigns you have used ti implemnt LRR algorithm, what function does what
         presentation - using LaTeX
+        references - need to use BibTech, citation needs to be inside text if using as reference, no extra links
 
         */
 
         dout.close();
         s.close();
     }
+}
