@@ -27,6 +27,7 @@ public class MyServer {
         //for loop with jobs (JOBN statements)
         //dout.write 
         //dout.flush
+        
 
         dout.write(("NONE\n").getBytes());
         dout.flush();
